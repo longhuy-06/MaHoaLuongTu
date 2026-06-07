@@ -1,0 +1,8 @@
+{
+  "name": "Remix: QKD BB84 Simulator",
+  "description": "Quantum Key Distribution (BB84 Protocol) Simulator with Eve interception and AES Encryption, designed with a Cyber Security theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
